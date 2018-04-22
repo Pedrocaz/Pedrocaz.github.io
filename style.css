@@ -342,6 +342,6 @@ h1, h2 {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-* {
+/** {
     outline: red 1px solid
-}
+}*/
