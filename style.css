@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 ﻿html {
     scroll-behavior: smooth;
 }
 
+=======
+>>>>>>> 81cb8fb507891066d4ad661a7f3a82aba783ef2d
 body {
     margin: 0;
 }
@@ -348,6 +351,6 @@ h1, h2 {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-* {
+/** {
     outline: red 1px solid
-}
+}*/
