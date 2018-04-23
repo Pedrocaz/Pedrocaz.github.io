@@ -1,9 +1,13 @@
-﻿body {
+﻿html {
+    scroll-behavior: smooth;
+}
+
+body {
     margin: 0;
 }
 
 header {
-    width:100%;
+    width: 100%;
     margin-bottom: -4px;
     position: relative;
 }
@@ -11,6 +15,7 @@ header {
 header img {
     max-width: 100%;
 }
+
 header h1 {
     width: 100%;
     position: absolute;
@@ -211,6 +216,7 @@ figcaption {
 }
 
 /*barra vertical*/
+
 .figdireita:before {
     content: " ";
     margin: 0 -25%;
